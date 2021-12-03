@@ -24,7 +24,7 @@ header h1 {
 }
 
 /* Slightly changes the color of the letters "seo" in the header */
-header h1 #seo {
+#seo {
     color: #d9dcd6;
 }
 
